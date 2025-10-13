@@ -28,8 +28,8 @@ jobs:
           STS_SELL: "87"
           LTS_SELL: "82"
         run: |
-          python scripts/analyze_sts_mts_lts.py --market kr
-          python scripts/analyze_sts_mts_lts.py --market us
+          python analyze_sts_mts_lts.py --market kr
+          python analyze_sts_mts_lts.py --market us
       - name: Commit reports
         run: |
           git config user.name "github-actions[bot]"
