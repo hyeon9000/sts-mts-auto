@@ -1,0 +1,8 @@
+[KR Summary — 2025-10-13]
+총 종목: 5
+BUY 후보군(≥88.0/83.0/83.0): 0
+SELL 후보군(STS≤87.0 & LTS≤82.0): 2
+
+[SELL Candidates]
+- 051910.KS  Close 282000.0  STS 18.98  LTS 62.73
+- 068270.KS  Close 170900.0  STS 23.36  LTS 72.94
