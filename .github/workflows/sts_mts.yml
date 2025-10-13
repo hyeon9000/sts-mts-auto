@@ -1,5 +1,6 @@
 name: STS/MTS/LTS Daily Analysis
-
+permissions:
+  contents: write
 on:
   workflow_dispatch:
   schedule:
