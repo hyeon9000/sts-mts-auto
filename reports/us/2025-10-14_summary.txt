@@ -4,4 +4,4 @@ BUY 후보군(≥88.0/83.0/83.0): 0
 SELL 후보군(STS≤87.0 & LTS≤82.0): 1
 
 [SELL Candidates]
--     MSFT  Close 514.05  STS 31.44  LTS 76.9
+-     MSFT  Close 513.57  STS 25.75  LTS 76.83
