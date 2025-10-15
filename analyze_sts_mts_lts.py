@@ -201,10 +201,13 @@ def run(market):
             lines.append(f"- {r.ticker:>8s}  Close {r.close}  STS {r.STS}  LTS {r.LTS}")
         lines.append("")
 
-    with open(os.path.join(rep_dir, f"{today}_summary.txt"), "w", encoding="utf-8") as f:
+    # 날짜 요약 저장
+with open(os.path.join(rep_dir, f"{today}_summary.txt"), "w", encoding="utf-8") as f:
     f.write("\n".join(lines))
 
-open(os.path.join(rep_dir,"latest_summary.txt"),"w",encoding="utf-8").write("\n".join(lines))
+# 최신 요약 파일도 항상 갱신
+with open(os.path.join(rep_dir, "latest_summary.txt"), "w", encoding="utf-8") as f:
+    f.write("\n".join(lines))
         
 if __name__ == "__main__":
     ap = argparse.ArgumentParser()
