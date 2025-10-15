@@ -202,8 +202,10 @@ def run(market):
         lines.append("")
 
     with open(os.path.join(rep_dir, f"{today}_summary.txt"), "w", encoding="utf-8") as f:
-        f.write("\n".join(lines))
+    f.write("\n".join(lines))
 
+open(os.path.join(rep_dir,"latest_summary.txt"),"w",encoding="utf-8").write("\n".join(lines))
+        
 if __name__ == "__main__":
     ap = argparse.ArgumentParser()
     ap.add_argument("--market", choices=["kr","us"], required=True)
