@@ -1,0 +1,32 @@
+name: Generate Ticker Lists
+
+on:
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Generate tickers
+        run: |
+          python scripts/gen_tickers.py
+
+      - name: Commit and push new tickers
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add tickers_kr.txt tickers_us.txt
+          git commit -m "Auto update tickers (KOSPI200+KOSDAQ150+NASDAQ200+NYSE100)" || echo "No changes"
+          git push
