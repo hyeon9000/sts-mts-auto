@@ -1,5 +1,20 @@
-NVDA
-AAPL
-MSFT
-TSLA
-AMD
+NVDA,NVIDIA Corporation
+MSFT,Microsoft Corporation
+AAPL,Apple Inc.
+GOOGL,Alphabet Inc. Class A
+AMZN,Amazon.com Inc.
+META,Meta Platforms Inc. Class A
+AVGO,Broadcom Inc.
+NFLX,Netflix Inc.
+COST,Costco Wholesale Corporation
+PEP,PepsiCo Inc.
+BRK-B,Berkshire Hathaway Inc. Class B
+JPM,JPMorgan Chase & Co.
+V,Visa Inc. Class A
+XOM,Exxon Mobil Corporation
+JNJ,Johnson & Johnson
+HD,Home Depot Inc.
+BAC,Bank of America Corporation
+PG,Procter & Gamble Company
+KO,Coca-Cola Company
+DIS,Walt Disney Company
