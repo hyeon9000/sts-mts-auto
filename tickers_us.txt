@@ -1,20 +1,189 @@
-NVDA,NVIDIA Corporation
-MSFT,Microsoft Corporation
 AAPL,Apple Inc.
+MSFT,Microsoft Corporation
 GOOGL,Alphabet Inc. Class A
+GOOG,Alphabet Inc. Class C
 AMZN,Amazon.com Inc.
-META,Meta Platforms Inc. Class A
+NVDA,NVIDIA Corporation
+META,Meta Platforms Inc.
+TSLA,Tesla Inc.
 AVGO,Broadcom Inc.
+ADBE,Adobe Inc.
 NFLX,Netflix Inc.
+AMD,Advanced Micro Devices Inc.
+INTC,Intel Corporation
+CSCO,Cisco Systems Inc.
+QCOM,QUALCOMM Incorporated
+TXN,Texas Instruments Incorporated
+AMAT,Applied Materials Inc.
+MU,Micron Technology Inc.
+LRCX,Lam Research Corporation
+KLAC,KLA Corporation
+REGN,Regeneron Pharmaceuticals Inc.
+INTU,Intuit Inc.
+ADP,Automatic Data Processing Inc.
+PDD,PDD Holdings Inc.
+MRVL,Marvell Technology Inc.
+PYPL,PayPal Holdings Inc.
+CRWD,CrowdStrike Holdings Inc.
+PANW,Palo Alto Networks Inc.
+ZM,Zoom Video Communications Inc.
+ABNB,Airbnb Inc.
+BKNG,Booking Holdings Inc.
+SBUX,Starbucks Corporation
 COST,Costco Wholesale Corporation
 PEP,PepsiCo Inc.
-BRK-B,Berkshire Hathaway Inc. Class B
-JPM,JPMorgan Chase & Co.
-V,Visa Inc. Class A
-XOM,Exxon Mobil Corporation
+MDLZ,Mondelez International Inc.
+ADSK,Autodesk Inc.
+TEAM,Atlassian Corporation
+SNPS,Synopsys Inc.
+CDNS,Cadence Design Systems Inc.
+NXPI,NXP Semiconductors N.V.
+MELI,MercadoLibre Inc.
+ASML,ASML Holding N.V.
+BIDU,Baidu Inc.
+JD,JD.com Inc.
+NTES,NetEase Inc.
+VRTX,Vertex Pharmaceuticals Inc.
+GILD,Gilead Sciences Inc.
+ISRG,Intuitive Surgical Inc.
+EA,Electronic Arts Inc.
+ORLY,O'Reilly Automotive Inc.
+ROST,Ross Stores Inc.
+BK,Bank of New York Mellon Corporation
+C,Citigroup Inc.
+GS,The Goldman Sachs Group Inc.
+MS,Morgan Stanley
+SCHW,The Charles Schwab Corporation
+SPGI,S&P Global Inc.
+ICE,Intercontinental Exchange Inc.
+BLK,BlackRock Inc.
+MMC,Marsh & McLennan Companies Inc.
+BRK.B,Berkshire Hathaway Inc. Class B
+JPM,JP Morgan Chase & Co.
+V,Visa Inc.
+MA,Mastercard Incorporated
+WMT,Walmart Inc.
 JNJ,Johnson & Johnson
-HD,Home Depot Inc.
-BAC,Bank of America Corporation
+XOM,Exxon Mobil Corporation
 PG,Procter & Gamble Company
-KO,Coca-Cola Company
-DIS,Walt Disney Company
+KO,The Coca-Cola Company
+PFE,Pfizer Inc.
+BA,The Boeing Company
+CAT,Caterpillar Inc.
+DIS,The Walt Disney Company
+CVX,Chevron Corporation
+HD,The Home Depot Inc.
+MCD,McDonald's Corporation
+ABT,Abbott Laboratories
+ABBV,AbbVie Inc.
+TMO,Thermo Fisher Scientific Inc.
+LIN,Linde plc
+UNH,UnitedHealth Group Incorporated
+GS,The Goldman Sachs Group Inc.
+MS,Morgan Stanley
+IBM,International Business Machines Corporation
+NKE,NIKE Inc.
+HON,Honeywell International Inc.
+GE,General Electric Company
+UPS,United Parcel Service Inc.
+LOW,Lowe's Companies Inc.
+DE,Deere & Company
+AMT,American Tower Corporation
+PLD,Prologis Inc.
+C,Citigroup Inc.
+BK,Bank of New York Mellon Corporation
+SO,The Southern Company
+NEE,NextEra Energy Inc.
+DUK,Duke Energy Corporation
+T,AT&T Inc.
+VZ,Verizon Communications Inc.
+RTX,RTX Corporation
+LMT,Lockheed Martin Corporation
+CVS,CVS Health Corporation
+WFC,Wells Fargo & Company
+PM,Philip Morris International Inc.
+MO,Altria Group Inc.
+UNP,Union Pacific Corporation
+SPGI,S&P Global Inc.
+MMC,Marsh & McLennan Companies Inc.
+EL,The Estée Lauder Companies Inc.
+SCHW,The Charles Schwab Corporation
+PLTR,Palantir Technologies Inc.
+SHOP,Shopify Inc.
+DDOG,Datadog Inc.
+ZS,Zscaler Inc.
+MDB,MongoDB Inc.
+SNOW,Snowflake Inc.
+DOCU,DocuSign Inc.
+RBLX,Roblox Corporation
+UBER,Uber Technologies Inc.
+LYFT,Lyft Inc.
+ETSY,Etsy Inc.
+OKTA,Okta Inc.
+TWLO,Twilio Inc.
+NET,Cloudflare Inc.
+PATH,UiPath Inc.
+BILL,Bill Holdings Inc.
+APPN,Appian Corporation
+NOW,ServiceNow Inc.
+CRM,Salesforce Inc.
+ORCL,Oracle Corporation
+SAP,SAP SE
+ACN,Accenture plc
+INTU,Intuit Inc.
+MSCI,MSCI Inc.
+TTD,The Trade Desk Inc.
+ROKU,Roku Inc.
+SPOT,Spotify Technology S.A.
+ZM,Zoom Video Communications Inc.
+TEAM,Atlassian Corporation
+WDAY,Workday Inc.
+CRWD,CrowdStrike Holdings Inc.
+PANW,Palo Alto Networks Inc.
+DDOG,Datadog Inc.
+ZS,Zscaler Inc.
+SNPS,Synopsys Inc.
+CDNS,Cadence Design Systems Inc.
+ADSK,Autodesk Inc.
+ANET,Arista Networks Inc.
+MCHP,Microchip Technology Inc.
+QRVO,Qorvo Inc.
+SWKS,Skyworks Solutions Inc.
+AVGO,Broadcom Inc.
+TXN,Texas Instruments Inc.
+ADP,Automatic Data Processing Inc.
+PAYX,Paychex Inc.
+FDX,FedEx Corporation
+GM,General Motors Company
+F,Ford Motor Company
+DAL,Delta Air Lines Inc.
+AAL,American Airlines Group Inc.
+UAL,United Airlines Holdings Inc.
+CSX,CSX Corporation
+NSC,Norfolk Southern Corporation
+K,The Kellogg Company
+GIS,General Mills Inc.
+KHC,The Kraft Heinz Company
+CL,Colgate-Palmolive Company
+EL,The Estée Lauder Companies Inc.
+MDT,Medtronic plc
+BMY,Bristol-Myers Squibb Company
+MRK,Merck & Co. Inc.
+LLY,Eli Lilly and Company
+ZTS,Zoetis Inc.
+HUM,Humana Inc.
+CNC,Centene Corporation
+ANTM,Anthem Inc.
+CI,Cigna Corporation
+AON,Aon plc
+MET,MetLife Inc.
+PRU,Prudential Financial Inc.
+AIG,American International Group Inc.
+TFC,Truist Financial Corporation
+USB,U.S. Bancorp
+PNC,PNC Financial Services Group Inc.
+TD,The Toronto-Dominion Bank
+RY,Royal Bank of Canada
+ENB,Enbridge Inc.
+TRP,TC Energy Corporation
+BNS,Bank of Nova Scotia
